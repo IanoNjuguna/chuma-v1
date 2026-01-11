@@ -1,0 +1,11 @@
+# See https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files for more about .gitignore syntax
+node_modules/
+dist/
+.env
+.DS_Store
+*.local
+*.log
+.vscode/
+.idea/
+*.swp
+coverage/
